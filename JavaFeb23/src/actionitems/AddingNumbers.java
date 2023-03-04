@@ -12,6 +12,11 @@ int sum = 0;
 		
 		System.out.println("The result is: " + sum);
 		
+		int sum1 = 0;
+		int i = 0;
+		while (i<=15);
+		
+		
 		
 		
 		
