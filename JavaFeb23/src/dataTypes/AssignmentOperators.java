@@ -11,7 +11,7 @@ public class AssignmentOperators {
 		 * a-=7 means a=a-7
 		 * a*=7 means a=a*7
 		 * a/=7 means a=a/7
-		 * a%=7 means a=a+7
+		 * a%=7 means a=a%7
 		 * Examples:
 		 * 
 		 */

@@ -7,7 +7,7 @@ public class If_Demo {
 
 		/**
 		 * Syntax:
-		 * if (boolean conditon)
+		 * if (boolean condition)
 		 * {
 		 * Code to be executed
 		 * }

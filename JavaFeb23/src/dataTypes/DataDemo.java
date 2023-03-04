@@ -35,7 +35,7 @@ public class DataDemo {
 		String roll_no ;
 		int sum;
 		
-		
+			
 		
 		
 		
@@ -48,8 +48,6 @@ public class DataDemo {
 
 
 
-String roll_no;
-int sum;
-int sum$1;
+
 
 
